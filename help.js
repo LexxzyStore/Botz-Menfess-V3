@@ -723,15 +723,15 @@ return`──「 *MENU DONATE* 」──
 
 Hi *${cekName}* ${ucapanWaktu} 👋🏻
 
-*Payment Ovo*
-Number: 085789004732
-A/N: LEXXY STORE
+*Payment Gopay*
+Number: 0895321878071
+A/N: Lexxzy Store
 
 *Payment Dana*
-Number: 085789004732
-A/N: LEXXY OFFICIAL
+Number: 083893305106
+A/N: nanda
 
-${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini ^_^${monoSpace}
+${monoSpace}*Arigatou Gozaimasu* untuk kamu yang sudah donasi😎✌${monoSpace}
 
 ──「 *THX FOR YOU* 」──`
 }
@@ -740,17 +740,17 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* Lexxy Official
- • *Umur:* 18 tahun
- • *Hoby:* Turu/Game
- • *Askot:* Palembang
- • *Konten:* Creator
+ • *Nama:* ZRiiL Store
+ • *Umur:* Private
+ • *Hoby:* Cari Cuan
+ • *Askot:* Private
+ • *Konten:* -
 
-_iam developer bot whatsapp._
+_iam owner bot whatsapp._
 
- *Sosial Media*
- • *Whatsapp:* 083834558105
- • *Youtube:* Lexxy Official
- • *Github:* Lexxy24
+ *Sosial Media Developer [ LexxzyStore ]*
+ • *Whatsapp:* 083893305106
+ • *Youtube:* Lexxzy Store
+ • *Github:* LexxzyStore
  `
 }
